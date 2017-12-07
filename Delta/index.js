@@ -1,1 +1,1 @@
-module.exports = "delta"
+module.exports = "delta 1.0.0"
